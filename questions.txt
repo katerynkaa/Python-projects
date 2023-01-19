@@ -1,0 +1,20 @@
+question: is the moon a planet?
+a: yes;
+b: no, but it is being reconsidered;
+c: no, its just a satellite;
+c
+question: how much is 2+2?
+a: 5;
+b: 4;
+c: 10;
+b
+question: how many time zones are there on Earth?
+a: 24;
+b: 12;
+c: 15;
+a
+question: when did the WW1 start?
+a: 1918;
+b: 1914;
+c: 1939;
+b
